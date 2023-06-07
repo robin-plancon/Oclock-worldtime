@@ -22,4 +22,4 @@ const capitalCities = [
 ];
 
 // On exporte notre module afin qu'il soit accessible depuis l'exterieur
-module.exports = capitalCities;
+export { capitalCities };
